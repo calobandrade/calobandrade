@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @calobandrade
-- 👀 I’m interested in data science and quanatative analysis
+- 👀 I’m interested in data science and quantitative analysis
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on various data projects
 - 📫 How to reach me @calobandrade
